@@ -27,7 +27,7 @@ export default function Home() {
           );
         }}
       >
-        Add to cart
+        AddD to cart
       </button>  </div>)}
 
      
